@@ -1,0 +1,29 @@
+<!DOCTYPE htlm>
+<htlm lang="es">
+  <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title> Hector Xadany Ramirez Gutierrez </title>
+     <link rel="stylesheet" href="assets/css/style.css"
+  </head>
+  <body>
+     <!-- Esto es un comentario interno. No se muestra en pantalla -->
+     <h1 class="textoCentrado"> Mi Primer Titulo </h1>
+     <p class="textoCentrado"> MI primer parrafo con informacion </p>
+     <p class="textoCentrado textoRojo"> Mi segundo parrafo. Puedes hacer <a href="https://www.microsoft.com"> click aqui </a> para visitar el sitio web de Microsoft. </p>
+     <hr>
+     <img src="assets/images/paisaje.jpg" alt="Paisaje de colinas con arboles y pasto"/>
+     <h2> Mi segundo parrafo pero algo mas pequeño </h2>
+     <p> Vamos a utlizar un sitio web que nos va generar texto y nos va a 
+     permitir ver se comporta. Este sitio web es <a href="https://es.lipsum.com/"> Lorem Ipsum </a>
+     <p>
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies, urna et ultrices imperdiet, metus ante rhoncus lacus, eget condimentum nisi erat non justo. Maecenas aliquet, massa eget cursus dictum, tellus odio lacinia sem, non laoreet tortor purus ac justo. Duis tortor lorem, molestie at magna eu, scelerisque commodo augue. Curabitur ultrices, sapien ut rhoncus feugiat, nibh velit auctor metus, ac molestie justo purus ut lectus. 
+     <br>
+     Nullam tempus lacus quis laoreet scelerisque. Nullam egestas sodales lacus vel varius. Ut at tellus euismod, dictum urna quis, pellentesque ligula. Cras at velit non leo elementum iaculis at auctor purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean quis rutrum lectus. Sed porttitor maximus ligula, luctus rhoncus nunc facilisis non. Fusce in velit in odio lacinia ultricies. 
+     
+     </p>
+  </body>
+</htlm>
+
+
+
